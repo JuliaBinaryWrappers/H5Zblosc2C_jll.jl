@@ -1,0 +1,192 @@
+[[H5Zblosc2C]]
+arch = "aarch64"
+git-tree-sha1 = "986468fb66c8fc7ac0bf199c81d9cc7b261db716"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "e91075c30126e7e2aa7eb230436b7070bbaada13c36fb34501ec84c5b263796a"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[H5Zblosc2C]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3be392ab355c9e2462815c59b5dd7b108d32175b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "75ce9ccac9f9d98b719a08fc566c6af5800b5559143cb6da1f19528bd57e5b27"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[H5Zblosc2C]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7d9bd949d1f8b2012c86985a28fa96641444b7b4"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "8dd0e4d7d856f0abc62b14ce055dde1c9fe211b50844208ec6c0fe67f64a3cb3"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[H5Zblosc2C]]
+arch = "aarch64"
+git-tree-sha1 = "3d8a2f4e7f91aa8500d9bfed538cbd38ee151f24"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "f7381b3957562ff5220033a8254032c502611db4889a700269d97ab4e7f24863"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+[[H5Zblosc2C]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0674398c0afbda4c977eaae1b8cc970442517043"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "b05e6c966fac2d64cbd13cf782ed58fa49318f54e4ffbd95fbb4bd12e01b045e"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.armv6l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+[[H5Zblosc2C]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e1bfc8a870ed8dd168914ae86b43a535988cb77a"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "f8291a53a9b08c35837b2b74b99c8e7b1fad6444938568695abed2d2b53d536a"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.armv6l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+[[H5Zblosc2C]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1cb416aeb49072a8c5cbd64a1cc0937d2350b194"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "2fb262c9db087d9c7dbca85c5c0239cf3257d2838ad07c88468c1772542bf86d"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+[[H5Zblosc2C]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e402910b67ca2d3bc786d6c1b29cce6a2ff0c6d6"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "fa7f67c6cdbe6b0f2d46a252f66417d0a14c80623098f36bf0198934d0a964f0"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+[[H5Zblosc2C]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4968a9a8a8dc43867709e6babc0d9ba3c35f58dc"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "126171b6070dd650ce60a6981804559fcd60022e50f3f11a618d59f432d30b56"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[H5Zblosc2C]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "29b8ba74545a0cea78ecc57f721620d57aa2fc6f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "b626720dff4fe31a4006c51f07e6872ea2b416a5d33e6da261a27725b0fb0438"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.i686-linux-musl-libgfortran5-cxx11.tar.gz"
+[[H5Zblosc2C]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8e455c12d5915e98142c4bb282412e63eae1c72a"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "dfe31c41f09f42c43a125b0e4f4a2002e9530205ad8b66e906c23ab3fa417d9b"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
+[[H5Zblosc2C]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3becbb6ad59c57972cc71650c11931273521da5b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "8f3831956f20748f33d6a2ebf0412f194a0a1577ddcf67f64ba2f0527c31b792"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[H5Zblosc2C]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8dc56c0fd0fd9d902e37ab6525820a3a078c565e"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "e0e10b5505bb237d62028daea628f33d70ce78fa25068d138b53233ddc1af6e8"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.riscv64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[H5Zblosc2C]]
+arch = "x86_64"
+git-tree-sha1 = "16281da34e0c88a6d6855d04ece64624642a8fee"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "4ae55b0c877d065f7be51c28d63299663f701d588d85c45425b5f7c64b9055cf"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[H5Zblosc2C]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1e0c8e3aae144aef1740340715dbecaa0be8e6c7"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "99f2b913e7bc122b2120d6953e451632ad5936fcd613ecd06c68a9989f3d93f7"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[H5Zblosc2C]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "22afffc5d0cea1d89ff47d426c26d688aa2c847f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "fe84f6361136f448cb0e2f4a4d8c296df33453b8578cab6f0a4aac8da643dc8d"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[H5Zblosc2C]]
+arch = "x86_64"
+git-tree-sha1 = "59192613977f4191c5ad77c0b5bd186d531c5062"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "b4a280d1114c2843c7c6b83f8e196e296a9b8bfc8f7c0c081e6546ffeda1f113"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[H5Zblosc2C]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9e0948689b675712bf4a4936cd08965a958b123d"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[H5Zblosc2C.download]]
+    sha256 = "2ca1e629a0f700dad6adb3122b8a9b285b4e5b1f1e7f7195ed764e435da5d711"
+    url = "https://github.com/JuliaBinaryWrappers/H5Zblosc2C_jll.jl/releases/download/H5Zblosc2C-v2.2.0+0/H5Zblosc2C.v2.2.0.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
